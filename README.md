@@ -9,3 +9,5 @@ Here you will find:
 3. [Appendix D. The Code for Data Set Analysis](https://github.com/piotrstrzelecki/materials/blob/main/Appendix%20D.%20The%20Code%20for%20Data%20Set%20Analysis.R)  
 4. [Appendix E. The Protocol Validation on a Standard Sample](https://github.com/piotrstrzelecki/materials/tree/main/standard%20sample)  
 
+![Figure 9b](https://github.com/piotrstrzelecki/materials/blob/main/Figure9b.gif)  
+> Visual representation of the clustering results presented as a fragment of the VOI
