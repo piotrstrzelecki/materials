@@ -15,4 +15,4 @@ Here you will find:
 5. [Data Set](https://github.com/piotrstrzelecki/materials/blob/main/dataset_mm.csv)  
 
 ![Figure 9b](https://github.com/piotrstrzelecki/materials/blob/main/Figure9b.gif)  
-> Visual representation of the clustering results presented as a fragment of the VOI
+> Visual representation of the clustering results presented as a fragment of the VOI (Fig.9b in the publication)
